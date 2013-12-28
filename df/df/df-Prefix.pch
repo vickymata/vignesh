@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'df' target in the 'df' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
